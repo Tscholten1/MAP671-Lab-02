@@ -14,7 +14,6 @@ from
 
 "state" = "WI"
 
-
 /* *************************************************************** */
 
 /* 2: Extract your urban area polygons */
@@ -29,13 +28,11 @@ from
 
 /* 3: Extract your waterbodies polygons */
 
-
-
-
-
-
+"state" = "WI"
 
 
 /* *************************************************************** */
 
 /* 4: Extract your stream lines ordered by size of stream */
+
+"state" = "WI" or "state" = "WI_IL"
