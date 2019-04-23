@@ -1,8 +1,9 @@
 # lab-02
 This lab includes several files that fulfill the requirements for Lab-02
 
-<li>State selected for analysis: Wisconsin<li/
-Five geojson files 
+<li>State selected for analysis: Wisconsin<li/>
+
+Five geojson files:
 <li>State_WI</li>
 <li>WI_nhd Stream gauges</li>
 <li>WI_nhd streams</li>
