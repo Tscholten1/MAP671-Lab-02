@@ -7,8 +7,6 @@ Five geojson files:
 <li>WI_Urban Areas2</li>
 <li>WI_Waterbodies</li>
 
-The coordinate system is NAD 83(Harn)/Illinois East  EPSG3443
+<li>The coordinate system is NAD 83(Harn)/Illinois East  EPSG3443</li>
 
-Data source is derived from National Map Small Scale Collection
-
-<li>Make changes to the html/text file</li>
+<li>Data source is derived from National Map Small Scale Collection</li>
