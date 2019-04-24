@@ -18,7 +18,8 @@ from
 
 /* 2: Extract your urban area polygons */
 
-"state" = "WI" or "state" = "WI_IL"
+-- "state" = "WI" or "state" = "WI_IL"
+"state" like "%WI%" -- captures the above statment
 
 /*extract towns*/
 "state" = 'WI'
@@ -35,4 +36,5 @@ from
 
 /* 4: Extract your stream lines ordered by size of stream */
 
-"state" = "WI" or "state" = "WI_IL"
+-- "state" = "WI" or "state" = "WI_IL"
+"state" like "%WI%" -- captures the above statment
