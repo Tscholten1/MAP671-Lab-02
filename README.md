@@ -1,4 +1,4 @@
-# lab-02
+#Lab-02
 This lab includes several files that fulfill the requirements for Lab-02
 
 <li>State selected for analysis: Wisconsin<li/>
